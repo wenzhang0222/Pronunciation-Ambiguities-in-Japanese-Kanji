@@ -12,5 +12,12 @@ The data is released under a Creative Commons Attribution-ShareAlike 4.0 Interna
 3. An annotated UD Japanese-GSD—a data set of kanji homograph readings in context named "jiten.tsv" is also released.
    It includes sentences in which the target kanji homograph has been found.
 
+## Link
+This project is based on the author's master's thesis submitted to the Department of Linguistics, CUNY Graduate Center in February 2023, and published in the 2023 ACL Workshop on Computation and Written Language (CAWL). 
+
+The thesis can be found as follow:
+
+https://academicworks.cuny.edu/gc_etds/5243/
+
 ## Author
 Wen Zhang
