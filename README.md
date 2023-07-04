@@ -15,9 +15,7 @@ The data is released under a Creative Commons Attribution-ShareAlike 4.0 Interna
 ## Link
 This project is based on the author's master's thesis submitted to the Department of Linguistics, CUNY Graduate Center in February 2023, and presented and published in the 2023 ACL Workshop on Computation and Written Language (CAWL). 
 
-The thesis can be found as follow:
-
-https://academicworks.cuny.edu/gc_etds/5243/
+The thesis can be found [here](https://academicworks.cuny.edu/gc_etds/5243/.).
 
 ## Author
 Wen Zhang
