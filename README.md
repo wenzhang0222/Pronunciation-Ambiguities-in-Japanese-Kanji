@@ -3,7 +3,7 @@
 This project solves the Japanese kanji reading ambiguities in text-to-speech applications, by providing the first annotated single kanji pronunciation data sets.
 
 ## License
-The data is released under a Creative Commons Attribution-ShareAlike 4.0 International Public License. Please see LICENSE.txt for details.
+The data is released under a Creative Commons Attribution-ShareAlike 4.0 International Public License. Please see [LICENSE.txt](LICENSE.txt) for details.
 
 ## Releasing
 1. 2,136 commonly used kanji homographs with their readings and reading types are released in a TSV file named "gsd.tsv".
