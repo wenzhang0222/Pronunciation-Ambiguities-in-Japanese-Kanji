@@ -1,4 +1,4 @@
-# 👘 Pronunciation Ambiguities in Japanese Kanji 👘
+# 🏯 Pronunciation Ambiguities in Japanese Kanji 👘
 
 This project solves the Japanese kanji reading ambiguities in text-to-speech applications, by providing the first annotated single kanji pronunciation data sets.
 
