@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 14 00:37:17 2022
-
-@author: wenzhang
-"""
-
 import re
 
 
@@ -23,7 +15,7 @@ def main() -> None:
             if not line:
                 continue
             columns = line.split("\t")
-            # get the kanji.
+            # Get the kanji.
             lemma = columns[2]
             # get the reading.
             MISC = columns[-1]
