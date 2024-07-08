@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-
-
 import csv
 import dataclasses
 import collections
