@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul  4 23:44:45 2022
-
-@author: wenzhang
-"""
-
 import re
 
 
